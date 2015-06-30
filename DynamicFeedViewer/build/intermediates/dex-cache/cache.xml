@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Mine\Android\DynamicFeedReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Mine\Android\DynamicFeedReader\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f0905de3e8c4bfa661fc08fb5bb564a3e3caadc9.jar" />
+    </item>
+    <item
+        jar="D:\Mine\Android\DynamicFeedReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Mine\Android\DynamicFeedReader\app\build\intermediates\pre-dexed\debug\classes-d5bb2908f35fe9fdee697db036b16b22b3de006e.jar" />
+    </item>
+    <item
+        jar="D:\Mine\Android\DynamicFeedReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Mine\Android\DynamicFeedReader\app\build\intermediates\pre-dexed\debug\classes-1d5a1b283ab82af7d226f5ffc3e76f11f6da872e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mahesh.yadav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Mine\Android\DynamicFeedReader\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7c8aeaab5e4d631ed956ead4e503f1de0b982635.jar" />
+    </item>
+
+</items>
